@@ -1,0 +1,24 @@
+name: componentlib
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.15.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/componentlib/assets/images/3_25.png
+    - packages/componentlib/assets/images/3_28.png
+    - packages/componentlib/assets/images/3_29.png
+    - packages/componentlib/assets/images/I3_33;3_7.png
+    - packages/componentlib/assets/images/I3_33;3_11.png
+    - packages/componentlib/assets/images/I3_33;3_16.png
