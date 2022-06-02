@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.componentlib">
+    package="com.example.mocha">
    <application
-        android:label="componentlib"
+        android:label="mocha"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
